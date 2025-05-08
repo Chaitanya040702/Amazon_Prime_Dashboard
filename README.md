@@ -102,6 +102,6 @@ This project explores and analyzes the content catalog available on Amazon Prime
 
 - External tools: Power BI documentation and cleaning best practices
 
-
+- https://github.com/Chaitanya040702/Amazon_Prime_Dashboard/blob/main/Snapshot_Prime_video_dashboard.png
 
 
